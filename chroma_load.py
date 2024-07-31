@@ -130,7 +130,7 @@ print("Controllers have been added to the ChromaDB collection.")
 
 # Query the collection
 results = collection.query(
-    query_texts=["The healthcare entity shall conduct background verification checks on all candidates for employment, contractors and third-party users The healthcare entity shall: 1. Define background verification process addressing provisions of government mandates and entity demands 2. Establish criteria for background verification checks based on: a. Role of the individual b. Classification of information access needed c. Access to critical areas d. Risk identified Basic"], # Chroma will embed this for you
+    query_texts=["The entity shall: 1) establish and maintain a human resources security policy that outlines roles and responsibilities of different stakeholders, and procedures to facilitate the implementation of the associated controls. 2) identify and implement associated controls"], # Chroma will embed this for you
     n_results=2 # how many results to return
 )
 
