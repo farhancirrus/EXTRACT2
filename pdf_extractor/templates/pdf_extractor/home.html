@@ -4,18 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upload PDF</title>
+    <title>Home</title>
     <link rel="stylesheet" href="{% static 'pdf_extractor/styles.css' %}">
 </head>
 <body>
     <div class="container">
-        <h1>Upload a PDF</h1>
-        <form method="post" enctype="multipart/form-data">
-            {% csrf_token %}
-            <label for="file">File:</label>
-            <input type="file" id="file" name="file" required>
-            <button type="submit">Upload</button>
-        </form>
+        <h1>Welcome to the Compliance Standards Tool</h1>
+        <button onclick="window.location.href='{% url 'upload_pdf' %}'">Go to PDF Upload</button>
         <button onclick="window.location.href='{% url 'query_view' %}'">Go to ChromaDB Query</button>
     </div>
 </body>

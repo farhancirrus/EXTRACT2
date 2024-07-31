@@ -5,6 +5,9 @@ from .models import PDFDocument
 import json
 from extract_mvp import extract_text_from_pdf, process_text_to_json
 
+def home(request):
+    return render(request, 'pdf_extractor/home.html')
+
 def upload_pdf(request):
     if request.method == 'POST':
         form = PDFUploadForm(request.POST, request.FILES)
@@ -16,3 +19,10 @@ def upload_pdf(request):
     else:
         form = PDFUploadForm()
     return render(request, 'pdf_extractor/upload.html', {'form': form})
+
+def query_view(request):
+    if request.method == 'POST':
+        query = request.POST.get('query')
+        results = process_text_to_json(query)
+        return JsonResponse({'results': results})
+    return render(request, 'pdf_extractor/query.html')
