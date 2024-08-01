@@ -1,5 +1,5 @@
 {
-  "Domain 11": [
+  "HR": [
     {
       "control_id": "HR 1.1",
       "control_description": "The entity shall develop, enforce and maintain a human resources security policy covering the security aspects of recruitment, employment and termination of employees, contractors and third-party users The policy shall:\n1.\tDefine management requirements on.\na)\tBackground verification for employees, contractors and third-party users\nb)\tRoles and responsibilities\nc)\tCompliance with acceptable usage and other organizational security policies\nd)\tTraining and awareness needs\ne)\tReturn of assets during exit\n2.\tMandate the requirements of non-disclosure and confidentiality during and after employment\n3.\tInclude reference to organizational disciplinary process",
@@ -59,7 +59,9 @@
       "control_id": "HR 4.4",
       "control_description": "The entity shall develop internal process to manage internal transfers and change of role\nThe entity shall:\n1.\tEnsure communication to all necessary internal and external stakeholders on change of role or internal transfers\n2.\tRevoke access and privileges associated with previous role and reassign privileges on system, application and information access and utilization consistent with their new role based on necessary authorization\n3.\tEnsure adequate knowledge transfers and responsibility handovers ",
       "label": "Basic"
-    },
+    }
+  ],
+  "AM": [
     {
       "control_id": "AM 1.1",
       "control_description": "The entity shall develop, implement, and maintain an asset management policy to:\n1.\tBe relevant and appropriate for entities operational and risk environment \n2.\tEstablish framework to effectively manage the entity\u2019s information assets through ownership assignment, accountability & responsibility definition, recording and maintaining of all/relevant properties of asset\n3.\tDefine roles and responsibilities for actions expected out of asset management policy, and shall have functional KPI\u2019s for business/function leaders\n4.\tDefine and enforce Asset classification scheme in line with section A.5 of this standard \n5.\tIdentify requirements of data retention, handling, and disposal",
@@ -154,7 +156,9 @@
       "control_id": "AM 5.2",
       "control_description": "The entity shall maintain records, on asset disposal. The records shall have, but not be limited to, the following fields:\n\u2022\tInformation and/or asset owner\n\u2022\tType of media\n\u2022\tClassification\n\u2022\tDisposal type\n\u2022\tReason for disposal\n\u2022\tRetention expiry date (if data)\n\u2022\tData removal confirmation and evidence\n\u2022\tDisposal authorized by",
       "label": "Transitional"
-    },
+    }
+  ],
+  "PE": [
     {
       "control_id": "PE 1.1",
       "control_description": "The entity shall develop, implement and maintain a physical and environmental security policy, to ensure adequate physical and environmental protection of entity\u2019s information assets \nThe policy shall:\n1.\tBe relevant and appropriate for entity\u2019s operational and risk environment, concerning internal and external threats\n2.\tAddress requirements of secure storage of hazardous or combustible materials that ensure avoidance of:\na)\thuman injuries or loss of life\nb)\tdamage to information and information systems\n3.\tConsider classification of information assets and their physical presence\n4.\tConsider medical devices and equipment\u2019s with special focus on their: \na)\tCriticality of data handled and healthcare operations\n5.\tPhysical and environmental demands, as recommended by the manufacturer and applicable regulatory requirements define roles and responsibilities for actions expected out of physical and environmental security policy",
@@ -214,7 +218,9 @@
       "control_id": "PE 3.5",
       "control_description": "The entity shall define and enforce a clear desk and clear screen policy for paper documents, removable storage media, and information processing systems.\nThe clear desk and clear screen policy shall:\n1.\tDefine user responsibilities with respect to clear desk and clear screen requirements\n2.\tBe appropriate to the purpose and objectives of the entity\n3.\tBe read and acknowledged by all employees and contractors of the entity\n4.\tEnsure that health information is not left unattended",
       "label": "Basic"
-    },
+    }
+  ],
+  "AC": [
     {
       "control_id": "AC 1.1",
       "control_description": "The entity shall develop, enforce and maintain an access control policy to ensure access to information and information assets is adequately controlled and secured.\nThe policy shall:\n1.\tBe relevant and appropriate to control and secure access to information, application, technology, medical devices and equipment\n2.\tInclude management demands and directions, scope and specific applicability based on:\na)\tType of service\nb)\tInformation\nc)\tApplication\nd)\tTechnology\ne)\tInfrastructure devices\nf)\tMedical devices and equipment\n3.\tEmphasize the requirement-of-need and role-based access principles\n4.\tEstablish requirements, with core focus on;\na)\tgranting of access\nb)\taccess authorization\nc)\taccess revocation\nd)\taccess review\n5.\tAddress the entity needs on secure password management and practices\n6.\tMandate the usage of unique identity and complex password where relevant, define access control measures and provisions for portable/mobile devices, including user owned devices, that handle the entity\u2019s data or host the entity application(s) to conduct business transactions \n7.\tInclude control requirements for the access and use of network services\n8.\tInclude management actions on violations and deviations\n9.\tDefine roles and responsibilities for actions expected",
@@ -294,7 +300,9 @@
       "control_id": "AC 6.3",
       "control_description": "The entity shall restrict and control the use of utility programs and tools that might be capable of overriding system and application controls.\nThe entity shall:\n1.\tIdentify essential system utilities and tools and enforce appropriate controls for use\n2.\tProvide access to system utilities and tools based on appropriate authorization\n3.\tMaintain inventory of access to system utilities and tools\n4.\tMonitor use of system utilities and tools",
       "label": "Advanced"
-    },
+    }
+  ],
+  "CO": [
     {
       "control_id": "CO 1.1",
       "control_description": "The entity shall develop, enforce and maintain a secure communication and operation management policy to ensure operational and communication activities concerning data, technology and application are controlled\nThe policy shall:\n1.\tBe relevant and appropriate to the entity\u2019s operational and risk environment concerning data, technology and application\n2.\tEstablish management demands on:\na)\tSegregation of duties\nb)\tConfiguration management\nc)\tChange management\nd)\tBaselines and minimum-security configurations\ne)\tStandard operating procedures\nf)\tCapacity management\ng)\tSystem acceptance\nh)\tMalware control\ni)\tBackup management\nj)\tNetwork Security Management\nk)\tSecure exchange of Information \nl)\tElectronic Commerce Services\nm)\tLogging and monitoring\nn)\tPatch management",
@@ -459,7 +467,9 @@
       "control_id": "CO 12.3",
       "control_description": "The entity shall ensure that all wireless networks are adequately protected\nThe entity shall:\n1.\tConduct site survey to determine the optimal physical location for the placement of wireless access-points or devices to avoid stray signal leaking outside the entity\u2019s physical boundary\n2.\tEnsure that wireless access points are configured to use strong authentication and cryptographic methods\n3.\tEnsure public and guest access are segregated and isolated from the entity\u2019s internal network",
       "label": "Basic"
-    },
+    }
+  ],
+  "DP": [
     {
       "control_id": "DP 1.1",
       "control_description": "The entity shall develop, enforce and maintain a data privacy  policy that ensures management\u2019s commitment to protect privacy of PII and PHI  generated, collected and processed by the entity\nThe policy shall:\n1.\tDefine requirements on;\na)\tData Generation\nb)\tData Collection\nc)\tData Processing\nd)\tData Security\ne)\tData Localization\nf)\tData Disclosure\ng)\tData Retention \nh)\tData management\ni)\tData Subject\n2.\tIdentify and define government sanctions and legal obligations\n3.\tInclude reference to organizational disciplinary process\n4.\tInclude references to other policies and procedures, as applicable ",
@@ -504,7 +514,9 @@
       "control_id": "DP 3.1",
       "control_description": "The entity shall ensure protection of data subject rights while processing their PII and PHI \nThe entity shall: \n1.\tFulfil data subject\u2019s request for:\na)\tObtaining information about their PII and PHI i.e., Type of processing, purpose of processing, sharing of data, security controls, breach management process etc.\nb)\tTransferring of their PII and PHI (to the data subject / another data controller)\nc)\tCorrection and deletion of their PII and PHI \nd)\tRestriction on further processing of their PII and PHI or retaining the data for defending rights and lawsuits\ne)\tObjection to results of automated data processing and profiling \n2.\tKeep records of PII and PHI information sharing and disclosures\n3.\tBased on request from the data subject, Transfer the PII and/or PHI to the data subject in machine-readable format \n4.\tReject data subject\u2019s request to exercise its rights, if the following becomes evident:\na)\tRequest is inconsistent with the judicial procedures or investigations or matters of public interest\nb)\tDeletion of data request conflicts with any applicable legislation to which the entity is subjected to\nc)\tRequest may negatively affect the efforts of the controller to protect information security\nd)\tRestriction request conflicts with consent Exemption conditions\ne)\tRequest violates the privacy and confidentiality of others personal data\nf)\tPrior contract or consent is available for automated processing",
       "label": "Transitional\nService Provider"
-    },
+    }
+  ],
+  "CS": [
     {
       "control_id": "CS 1.1",
       "control_description": "The entity shall develop, enforce and maintain a Cloud Security Policy to protect the confidentiality, integrity and availability of all IT applications, data, systems and network resources implemented in a cloud environment and ensure cloud services are acquired, used, managed, and terminated in conformity with all applicable laws and regulations.\nThe policy shall:\n1.\tBe relevant and appropriate to the entity\u2019s cloud security demands and applicable legal and regulatory compliance requirements\n2.\tDemonstrate management commitment, objectives and directions\n3.\tEstablish a process that facilitates:\na)\tSelection of suitable cloud service provider and scope of cloud services usage\nb)\tIdentification of suitable information security requirements\nc)\tSigning of Service Level Agreements (SLAs) and Non-Disclosure Agreements (NDAs)\nd)\tAssignment of roles and responsibilities related to use and management of cloud services\ne)\tAgreement on data retention, portability and destruction requirements",
@@ -514,7 +526,9 @@
       "control_id": "CS 1.2",
       "control_description": "The entity shall identify and ensure implementation of information security controls to protect their cloud environment against evolving threats and risks:\nThe entity shall:\n1.\tImplement the Shared responsibility model for Information Security of the cloud and ensure that the duties for managing information security in the cloud are assigned to recognized parties, effectively communicated, and executed\n2.\tEnsure cloud environment is physically hosted within UAE without any of the environments, infrastructures, or systems outside the country including backup and disaster recovery\n3.\tEnsure data/health information stored in cloud is not extended for access, use or support by;\na)\tAny other entity/party in a multi-tenant environment.\nb)\tAny entity/party that provides analytical services, where the data or copy of data is transferred/sent outside country\nc)\tAny entity/party that provides remote support from outside UAE\n4.\tEnsure data-at-rest, data-in-transit/motion is always encrypted\n5.\tEnsure the key used to encrypt data-at-rest and data-in-transit/motion is not provided by the cloud service provider who provides the application, infrastructure and data hosting services\n6.\tProtect data during processing in a cloud environment\n7.\tProcure cloud service that provides feature to generate or configure entity\u2019s own cryptographic keys to be used for applications and services in cloud \n8.\tEnsure the cloud service provider does not store and control the entity's cryptographic keys  ",
       "label": "Transitional\nService Provider"
-    },
+    }
+  ],
+  "TP": [
     {
       "control_id": "TP 1.1",
       "control_description": "The entity shall develop, enforce and maintain a third-party security policy to facilitate implementation of the associated controls and to reduce probabilities of risk realization concerning third parties\nThe policy shall:\n1.\tBe relevant and appropriate to the relationship of the entity and the third party \n2.\tOutline roles and responsibilities for managing the third party\n3.\tEstablish a process that facilitates:\na)\tSecurity due diligence of third-party services before appointment\nb)\tSecure management of third-party services and their role in healthcare and/or related services \nc)\tDefining and including information security objectives in line with applicable mandates and/or requirements of entity\nd)\tThird party briefing of security requirements\ne)\tSecurity requirements for sub-contracting\nf)\tSigning service delivery agreements & non-disclosure agreements (NDAs) with third parties SLA definition and Performance monitoring\n4.\tDemonstrate management\u2019s commitment, objectives and directions ",
@@ -534,7 +548,9 @@
       "control_id": "TP 2.3",
       "control_description": "The entity shall regulate/control changes to the provisions of the signed third-party agreement through a formal management process\nThe entity shall:\n1.\tEnsure that changes to activities and provisions in the agreement are in compliance with security requirements\n2.\tInclude as part of the agreement, formal processes to manage changes in the agreement\n3.\tDefine parameters of change that shall be communicated and agreed between the entity and the third party",
       "label": "Transitional"
-    },
+    }
+  ],
+  "SA": [
     {
       "control_id": "SA 1.1",
       "control_description": "The entity shall develop, enforce and maintain an information systems acquisition, development and maintenance policy to facilitate implementation of secure system development and maintenance practices\nThe policy shall:\n1.\tBe relevant and appropriate to the model and relationship of the entity and involve internal and external stakeholders\n2.\tDemonstrate management\u2019s commitment, objectives and directions\n3.\tEstablish a process that facilitates:\na)\tDefining and including information security objectives\nb)\tIdentification and mitigation of risks in involved business and application processes\nc)\tSelection of the right model and approach\nd)\tDefinition of roles and responsibilities\n4.\tEstablish management expectations on:\na)\tPrivacy and protection of information assets\nb)\tSecure design, development, testing, deployment, maintenance and support\nc)\tSecure access to systems, applications, devices, and equipment\nd)\tSecure processing and communication of information and data\ne)\tNon-disclosures requirements\nf)\tCryptographic controls and requirements",
@@ -599,7 +615,9 @@
       "control_id": "SA 6.4",
       "control_description": "The entity shall ensure adequate supplies of critical information systems, medical devices and system/devices components\nThe entity shall:\n1.\tEngage with more than one supplier for critical products and systems\n2.\tEstablish contingency plans for the supply of any critical information systems, medical devices and system/device components\n3.\tConsider stockpiling of essential and critical spare components",
       "label": "Advanced"
-    },
+    }
+  ],
+  "IM": [
     {
       "control_id": "IM 1.1",
       "control_description": "The entity shall create, implement, and uphold an incident management policy to ensure that information security and privacy incidents are addressed and managed properly, enabling prompt corrective and preventive actions\nThe policy shall:\n1.\tBe relevant and appropriate to the entity\u2019s operation and risk environments\n2.\tDemonstrate management commitment, objectives and directions\n3.\tEstablish incident management roles and responsibilities\n4.\tEstablish a proactive, collaborative and sustainable process of identifying and resolving adverse information security and privacy incidents.\n5.\tEstablish management demands on:\na)\tIncident identification\nb)\tIncident response\nc)\tIncident notification/communication\nd)\tContainment & Eradication\ne)\tLearning from incident",
@@ -634,7 +652,9 @@
       "control_id": "IM 3.1",
       "control_description": "The entity shall develop a situational awareness culture by participating in the information sharing community and obtaining cybersecurity information from various sources\nThe entity shall:\n1.\tIdentify priority information and share it internally to build the entity\u2019s business model based-context\n2.\tEnsure all identified cybersecurity information is relevant to the:\na)\tEntity\u2019s business operations\nb)\tEntity\u2019s information system and application, medical devices and equipment\nc)\tEntity\u2019s processes and control environment\nd)\tEntity\u2019s risk environment\n3.\tEstablish and coordinate with the healthcare sector regulator of Abu Dhabi to receive relevant cybersecurity information",
       "label": "Advanced"
-    },
+    }
+  ],
+  "SC": [
     {
       "control_id": "SC 1.1",
       "control_description": "The entity shall develop, enforce and maintain an information systems continuity planning policy to manage scenarios that challenge the continued availability of information systems and applications supporting critical business services\nThe policy shall:\n1.\tBe relevant and appropriate to the entity\u2019s information systems and applications continuity demands\n2.\tDemonstrate management commitment, objectives and directions\n3.\tEstablish roles and responsibilities of involved stakeholders\n4.\tEstablish management expectations on:\na)\tPlanning for information system, medical device, equipment and application continuity during adverse situations\nb)\tEnsuring Information security during business continuity and disaster recovery\nc)\tCompliance with organizational business continuity plans\nd)\tTesting of continuity and restoration plans",
