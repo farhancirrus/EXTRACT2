@@ -17,7 +17,8 @@
             <button type="submit">Submit</button>
         </form>
         <div id="results"></div>
-        <button onclick="window.location.href='{% url 'upload_pdf' %}'">Go to PDF Upload</button>
+        <button onclick="window.location.href='{% url 'upload_excel' %}'" class="btn btn-secondary mt-3">Go to Excel Upload</button>
+        <button onclick="window.location.href='{% url 'upload_pdf' %}'" class="btn btn-secondary mt-3">Go to PDF Upload</button>
     </div>
     <script>
         document.getElementById('query-form').onsubmit = async function(e) {
