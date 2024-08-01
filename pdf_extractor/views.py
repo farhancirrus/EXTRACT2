@@ -15,7 +15,7 @@ def upload_pdf(request):
             pdf_document = form.save()
             extracted_text = extract_text_from_pdf(pdf_document.file.path, 0, 75)
             json_output = process_text_to_json(extracted_text)
-            return JsonResponse(json.loads(json_output))
+            return render(request, 'pdf_extractor/result.html', {'json_data': json.loads(json_output)})
     else:
         form = PDFUploadForm()
     return render(request, 'pdf_extractor/upload.html', {'form': form})
