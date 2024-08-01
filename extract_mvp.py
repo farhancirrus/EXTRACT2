@@ -1,7 +1,10 @@
 import PyPDF2
 import re
 import json
-import pandas as pd
+
+import PyPDF2
+import re
+import json
 
 def extract_text_from_pdf(file_path, start_page, end_page):
     with open(file_path, 'rb') as file:
@@ -11,21 +14,45 @@ def extract_text_from_pdf(file_path, start_page, end_page):
             page = reader.pages[page_num]
             text += page.extract_text() + "\n\n"  # Add extra newlines between pages
     return text
-    
+
 def process_text_to_json(text):
     lines = text.split('\n')
-    controls = {}
+    domains = {}
+    current_domain = None
     current_control = None
-    
+
     for line in lines:
-        match = re.match(r'^([A-Z]{2}\s\d+\.\d+)', line)
-        if match:
-            current_control = match.group(1)
-            controls[current_control] = line[len(current_control):].strip()
+        domain_match = re.match(r'^(HR|AM|PE|AC|OM|CP|TP|IS|IM|CM)', line)
+        control_match = re.match(r'^([A-Z]{2}\s\d+\.\d+)', line)
+        label_match = re.search(r'\b(Basic|Advanced|Transitional)\b', line)
+
+        if domain_match:
+            current_domain = domain_match.group(1)
+            if current_domain not in domains:
+                domains[current_domain] = []
+            current_control = None  # Reset current_control when a new domain is found
+        if control_match:
+            current_control = control_match.group(1)
+            control_description = line[len(current_control):].strip()
+            current_label = label_match.group(0) if label_match else "Unknown"
+            domains[current_domain].append({
+                "control_id": current_control,
+                "control_description": control_description,
+                "label": current_label
+            })
         elif current_control and line.strip():
-            controls[current_control] += ' ' + line.strip()
-    
-    return json.dumps(controls, indent=2)
+            if current_domain and domains[current_domain]:
+                # Check if line contains label and split accordingly
+                label_search = re.search(r'\b(Basic|Advanced|Transitional)\b', line)
+                if label_search:
+                    line_text = line[:label_search.start()].strip()
+                    label_text = label_search.group(0)
+                    domains[current_domain][-1]["control_description"] += ' ' + line_text
+                    domains[current_domain][-1]["label"] = label_text
+                else:
+                    domains[current_domain][-1]["control_description"] += ' ' + line.strip()
+
+    return json.dumps(domains, indent=2)
 
 if __name__ == "__main__":
     pdf_path = "ADHICSmvp2.pdf"
