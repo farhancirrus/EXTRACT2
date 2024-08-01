@@ -66,5 +66,5 @@ if __name__ == "__main__":
     print(json_output)
     
     # Optionally, save to a file
-    with open("output_multi_page.json", "w") as f:
+    with open("ADHICS_V1.json", "w") as f:
         f.write(json_output)

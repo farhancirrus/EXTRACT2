@@ -1,0 +1,728 @@
+{
+  "HR": [
+    {
+      "control_id": "HR 1.1",
+      "control_description": "The healthcare entity shall develop, enforce and maintain a human resources security policy covering the security aspects of employment and termination The policy shall: 1. Define management requirements on; a. Background verification for employees and contractors b. Roles and responsibilities c. Compliance with acc eptable usage and other organizational security policies d. Training and awareness needs e. Return of assets during exit 2. Mandate the requirements of non -disclosure and confidentiality during and after employment 3. Include reference to organizational disciplinary p rocess UAE IA Reference: M3.1.1, M4.1.1 Page 25 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 2.1",
+      "control_description": "The healthcare entity shall conduct background verification checks on all candidates for employment, contrac tors and third -party users The healthcare entity shall: 1. Define background verification process addressing provisions of government mandates and entity demands 2. Establish criteria for background verification checks based on: a. Role of the individual b. Classifica tion of information access needed c. Access to critical areas d. Risk identified",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 2.2",
+      "control_description": "The healthcare entity shall establish  specific terms and condition of employment The terms and condition shall: 1. Include control requirement specific to employees, co ntractors and third parties, relevant to their roles and risk profiles 2. Include information security responsibilities of the healthcare entity and of the employees, contractors and third parties 3. Include standard information security requirements 4. Be read, un derstood, agreed and signed by employees, contractors and third parties The healthcare entity shall: 5. Conduct mandatory briefing sessions to employees, contractors and third parties on standard and specific information security requirements of the terms and  condition 6. Maintain adequate records on employee, contractor and third party briefing 7. Maintain terms and conditions signed by employee, contractor and third -party resources in -line with entity retention requirements  UAE IA Reference: M4.2.1, M4.2. 2 Page 26 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 3.1",
+      "control_description": "The healthcare entity management shall ensure employees, contractors and third party users adopt and apply security in accordance with established entity poli cies and procedures The healthcare entity shall: 1. Ensure employees, contractors and third party users are briefed on the entity\u2019s information security compliance requirements 2. Establish acceptable usage policy and ensure users read, accept and sign the poli cy prior to the provision of system, application or information access 3. Consider segregation of duties to avoid potential misuse of position or conflict of interest",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 3.2",
+      "control_description": "The healthcare entity shall develop new or modify existing awareness and training  programs to include requirements of governmental and organizational information security demands The healthcare entity shall: 1. Ensure all employees and where relevant contractors and third parties receive appropriate awareness and training to enhance the entity\u2019s security posture and to minimize probabilities of information security risks 2. Ensure that an awareness and training program is formally launched and professionally managed 3. Enhance training contents and enrich delivery of awareness aspects based  on evolving needs 4. Evaluate effectiveness and maintain appropriate record of awareness and trainings delivered",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "HR 3.3",
+      "control_description": "The healthcare entity shall identify and address skill and competency demands and gaps The healthcare entity shall: 1. Assess a nd identify skill and competency gaps on information security demands 2. Implement skill and competency development programs Page 27 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 3.4",
+      "control_description": "The healthcare entity shall conduct periodic security awareness campaigns, based on established yearly schedules The hea lthcare entity shall: 1. Conduct awareness campaign for general and targeted user groups 2. Identify innovative methods and medium to communicate security requirements 3. Include incentive programs for user participation and adherence to security practices The awar eness campaign shall: 4. Present current risks around the work and industry, and ways to address 5. Present learning from incident 6. Demonstrates the need to protect healthcare information 7. Include benefit of information security compliance 8. Demonstrate stakeholder responsibilities 9. Highlight entity, government and regulatory demands",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 3.5",
+      "control_description": "The healthcare entity shall establish and enforce a disciplinary process for employees, where relevant contractors and third parties, who have committed security breaches The healthcare entity shall: 1. Ensure employees, contractors and third party resources are aware of the entity\u2019s disciplinary processes 2. Enforce disciplinary processes and maintain necessary records on the breaches and on management\u2019s actions UAE  IA Reference: M3.2.1, M3.3.1, M3.3.2, M3.3.3, M3.3.4, M3.3.5, M3.4.1, , M4.3.1, M4.3.2 Page 28 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "HR 4.1",
+      "control_description": "The healthcare entity shall de fine responsibilities concerning information security for performing employment termination or change of employment The healthcare entity  shall : 1. Establish internal and external communication protocol on employment exit 2. Ensure adequate knowledge transfers a nd responsibility handovers",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 4.2",
+      "control_description": "The healthcare entity shall ensure recovery of all organizational assets upon termination of employment, contract or agreement The healthcare entity  shall : 1. Ensure all organizational assets are recovered and necess ary acknowledgement and clearance obtained from appropriate stakeholders 2. Ensure all information, with special focus on healthcare information, has been recovered and cannot be misused anywhere, anytime 3. Ensure resource s leaving the entity formally acknowled ges and conforms that no information is under their direct or indirect possession or use",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 4.3",
+      "control_description": "The healthcare entity shall remove access rights and revoke privileges of individuals upon termination of employment, contract or agreement The healthca re entity  shall remove access to systems, application s, information, secure areas, and work areas . The healthcare entity  shall : 1. Ensure access to systems, application, information, secure areas, work areas and identified critical areas are revoked upon term ination 2. Communicate with health sector regulator or Abu Dhabi government to revoke any relevant system and application access upon termination",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HR 4.4",
+      "control_description": "The healthcare entity shall develop internal process to manage internal transfers and change of ro le The healthcare entity  shall : 1. Ensure communication to all necessary internal and external stake holders on change of role or internal transfers 2. Revoke access and privileges associated with old role and reassign privileges on system, application and infor mation access and utilization consistent with their new role based on necessary authorization UAE IA Reference: M4.4.1, M4.4.2, M4.4.3 Page 29 of 116 2. Asset Management Asset Management is an essent ial part of effective health care Information Security management . Health care entities are witnessing an influx of new asset classes that are very different from the ones they used to deal with.  Innovative care delivery mandates that healthcare entities and professionals  deal with a large number of relatively small, mobi le and sophisticated pieces of equipment /devices, and to keep them running at all times as they are often critical to the patient\u2019s health, safety  and wellbeing . In order to be effective and supportive of organizational business and security objectives, healthcare entities shall maintain an updated version of asset inventory, available to relevant management, business and support stakeholders. Information assets includes information/data in all its form, as well as the underlying application, technology, a nd physical infrastructure to support its processing, storing, communicating and sharing. The following are considered information assets: \uf0b7 Information (in physical and digital forms) \uf0b7 Medical device and equipment \uf0b7 Applications and Software \uf0b7 Information System \uf0b7 Physical Infrastructure (Data centre, access barrios, electrical facilities, HVAC systems, etc) \uf0b7 Human resources (in support of care delivery) Objective: The regulatory structure surrounding nearly every facet of the healthcare operations, from protecting patient data and improving health outcomes, to reporting on compliance -related issues, necessitates healthcare entities to monitor and record the use of information assets . Supporting or dependent entity policy references: 1) Data Retention and Disposal Pol icy 2) Physical and Environment Policy 3) Portable Device Security Policy 4) Acceptable Usage Policy Page 30 of 116",
+      "label": "Basic"
+    }
+  ],
+  "AM": [
+    {
+      "control_id": "AM 1.1",
+      "control_description": "The healthcare entity shall develop, implement and maintain an asset management policy  to: 1. Be relevant and appropriate for entities operational and risk environment 2. Establish framework to effectively manage the entity\u2019s information assets through ownership assignment, accountability & responsibility definition, re cording and maintaining of all/relevant properties of asset 3. Define roles and responsibilities for actions expected out of asset management policy, and shall have functional KPI\u2019s for business/function leaders 4. Define and enforce classification schemes, as a pplicable for AD Health Sector (Public, Restricted, Confidential & Secret) 5. Identify requirements of data retention, handling and disposal 6. Have provisions to manage Bring Your Own Device (BYOD) arrangements 7. Be reviewed, updated and maintained at planned int ervals or during significant changes to operating or risk environment, whichever is earlier 8. Be approved by the entity\u2019s top management or its head and shall be communicated to all employees and third parties having a role in care delivery",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 1.2",
+      "control_description": "Where applicable, the healthcare entity shall pay specific attention to medical equipment and devices while defining policy, and shall categorically address the following demands : 1. Roles that will be allowed to access, use and maintain medical device s and equi pment shall be established 2. To the extent possible, medical device s and equipment to authenticate users, based on healthcare entity authentication and authorization process 3. The need for handling procedures for each medical device and equipment in use shall be defined and updated as required  to stay current 4. The need to establish and maintain risk log concerning medical device s and equipment 5. Decommissioning and/or disposal of medical device s and equipment UAE IA References: T1.1.1 Page 31 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 2.1",
+      "control_description": "The healthcare entity shall have all their information assets identified, recorded and maintained through an information asset inventory. 1. The inventory shall be updated periodica lly, or during change in the environment, and shall be accurate and reliable 2. The inventory can be centralized or distributed (function/line -of- business/service wise) based on the entity\u2019s internal structures, and shall be updated 3. The inventory shall establ ish the relations between various types of information assets, in support of care delivery; Sample illustration:  Service  A \uf0e8 needs B Information  \uf0e8 supplied by C Device/Equipment/Process/Dependent -Service  \uf0e8 processed using D Application (ERP/EMR/Office Auto mation Applications/etc.)  \uf0e8 running on E Technology (server/systems) \uf0e8  supported/operated/managed by XYZ Roles  (human resources involved in care delivery)",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 2.2",
+      "control_description": "Ownership for each identified assets shall be assigned to a designated role : 1. The owne r of an information asset shall define/identify the control requirements to minimize the impact of risk, due to the compromise of assets under his ownership 2. The owner shall review the adequacy of implemented control measures periodically and amend/modify t he control environment as necessary 3. The owner shall ensure effectiveness of the implemented controls, in addressing the risk environment 4. Access and/or use of information assets shall be authorized by the asset owner Ownership of shared IT resources (email system, Active Directory, Common File Server, etc.) shall be collectively owned by the entity\u2019s Information Technology/System or Information and Communication Technology Function. Page 32 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 2.3",
+      "control_description": "The healthcare entity shall establish and enforce rules on the  acceptable use of information assets : 1. The rules shall be communicated to all employees and contractors in support of care delivery, and shall be read and acknowledged by all 2. Entities shall maintain records of user acceptance on the acceptable use of infor mation assets The rule shall consider general requirements and industry best practices  and shall have management requirements to reduce probabilities of information leakage/loss/theft and system compromises.",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 2.4",
+      "control_description": "Entity management shall be aware o f emerging cyber risks, and shall address risk due to the exploitation of the concept -in-practice \u201cBring Your Own Device (BYOD)\u201d 1. Probabilities of compromise through the use of personal devices shall be addressed through suitable rules and role -based usage agreements 2. Authorization to use personal devices to access/view/use/share/process/store personal health information is subject to user acknowledgement on the usage agreements Control process and technology solution shall be implemented to reduce/address/co ntain factors of risk . UAE IA References: T1.2.1, T1.2.2, T1.2.3 & T1.2.4 Page 33 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 3.1",
+      "control_description": "The healthcare entity shall classify  all information assets,  that categorises information assets into one of the following classification scheme : \uf0b7 Public \uf0b7 Restricted \uf0b7 Confidential \uf0b7 Secret",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 3.2",
+      "control_description": "Information classification shall consider value of the information and shall be more restrictive/deterrent based on the entity\u2019s tolerance of financial impact due to compromise of the information considered.",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 3.3",
+      "control_description": "The level of essential protection needed for an asset shall be considered while determining asset classification.",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 3.4",
+      "control_description": "The health care entity shall establish process to reassess and/or change information classification, based on the following : 1. Change in the value of information 2. Changes to environment (location, access, storage, processing, usage, etc.) 3. Changes in protection levels",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 3.5",
+      "control_description": "The healthcare entity shall establish process to interpret classification schemes, while receiving information from other entities/3rd parties and shall apply all essential control measures to safeguard/protect against compromise.  Transi tional",
+      "label": "Unknown"
+    },
+    {
+      "control_id": "AM 3.6",
+      "control_description": "The healthcare entity shall establish criteria for automated classification of information and shall consider using technology solutions to do so  based on established classification scheme and criteria.",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "AM 3.7",
+      "control_description": "The healthcare entity  shall establish process to label its information assets in all its form (physical & digital) in a way that is consistent with its classification scheme. UAE IA Reference: T1.3.1, T1.3.2 Page 34 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.1",
+      "control_description": "Handling procedures shall be defined for information, consistent with their classification. 1. Handling procedures shall detail security requirements during : \uf0b7 Access granting and privilege allocation \uf0b7 Processing \uf0b7 Storing \uf0b7 Communica tion/sharing \uf0b7 Printing 2. Security requirements based on asset value shall be considered in the handling procedures",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.2",
+      "control_description": "Ensure adoption and application of handling procedures while handling information.",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.3",
+      "control_description": "The healthcare entity shall manag e removable media in accordance with the classification scheme, handling procedures and acceptable use of assets. The entity shall : 1. Establish media management procedures to address lifecycle requirements (setup, distribution, utilization and disposal) 2. Impl ement rules and guidelines for protecting assets against unauthorised access, misuse or corruption during movement.",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.4",
+      "control_description": "Access and usage of removable media shall be controlled and shall be based on the entity\u2019s management approval. Entity managem ent shall : 1. Accept all involved/inherent risk concerning the us e of removable media, and shall be ar all responsibilities and is held accountable for the risks inherent in authorizing the use of removable media",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.5",
+      "control_description": "The healthcare entity shall esta blish medical devices and equipment management procedure s for each category of identified medical devices and equipment. Page 35 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.6",
+      "control_description": "Access and privilege allocation for medical devices shall be provided to defined roles, with essential qualification and experience required to operate. The healthcare entity shall : Secure and safe -guard  medical devices and equipment in accordance with its classification scheme and risk factor",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 4.7",
+      "control_description": "The healthcare entity shall prevent unauthorized disclosure, modifi cation, destruction or loss of patient health information stored on medical devices and equipment. Entities shall ensure; 1. Information stored within the medical devices and equipment shall be encrypted 2. Electronic communication between medical devices and e quipment shall be encrypted 3. Healthcare entities shall define minimum essential qualification required to operate and/or handle medical devices and equipment 4. Copies of valuable health data is moved to a secure storage/location to reduce the risk of its data  damage or loss",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 4.8",
+      "control_description": "Healthcare facilities shall consider wired communication facility  for medical devices and equipment. Usage of wireless communication facility with medical devices and equipment shall be avoided  to the extent possible .",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 4.9",
+      "control_description": "Entity shall deploy technology solution to white list removable media, and shall be complemented by content encryption and biometric based access provisioning.",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "AM 4.10",
+      "control_description": "The healthcare entity shall establish control procedures f or the removal, movement, and transfer of information assets (information, equipment, medical devices, and information processing equipment/systems). Healthcare entities shall; 1. Authorize removal, movement and transfer of information assets 2. Maintain records  of removal, movement and transfer UAE IA Reference: T1.3.3,  T1.4.1, T2.3.7 Page 36 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 5.1",
+      "control_description": "The healthcare entity shall dispose information assets, when no longer required : \uf0b7 by the entity \uf0b7 on basis of regulatory demands \uf0b7 for legal proceedings",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 5.2",
+      "control_description": "The healthcare entity shall establish a control process that ensures data once destroyed is not recovered",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 5.3",
+      "control_description": "Media, both digital and physical, when no lo nger required shall be destroyed by the entity",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 5.4",
+      "control_description": "The healthcare entity shall establish control procedures for the secure disposal or reuse of media, equipment, devices and systems, containing classified information. The healthcare entity  shall : 1. Ensure sensitive data and licensed software has been securely removed beyond recovery, prior to disposal",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AM 5.5",
+      "control_description": "Retention requirement of data/information contained within media and system shall be verified and complied with, prior to disposa l",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 5.6",
+      "control_description": "All disposal requirement shall be authorized by entity management prior to disposal",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AM 5.7",
+      "control_description": "The healthcare entity shall maintain records, on media disposal. The records shall have, but not be limited to, the following fields : \uf0b7 Informa tion and/or asset owner \uf0b7 Type of media \uf0b7 Classification \uf0b7 Disposal type \uf0b7 Reason for disposal \uf0b7 Retention expiry date (if data) \uf0b7 Data removal confirmation and evidence \uf0b7 Disposal authorized by UAE IA Reference: T1.4.2, T2.3.6 Page 37 of 116 3. Physical and Environmental Sec urity Information and information processing equipment(s)/facilities has greater dependence on physical environment to achieve business objectives. Physical environment and its security are foundational elements to define secure data processing, data stora ge, data communication/sharing , data hosting  and data disposal .   Physical and environmental security programs and efforts define the various measures or controls that protect healthcare entities from loss of connectivity, availability of information proce ssing facilities , storage (backup and archival) equipment(s)/facilities and medical equipment\u2019s/devices caused by theft, fire, flood, intentional destruction, unintentional damage, mechanical failure, power failure,  etc. Physical security measures shall b e adequate to deal with foreseeable threats and should be tested periodically for their effectiveness. The following aspects of physical and environmental security shall be considered; \uf0b7 Physical protection of data center  and information processing equipment (s)/facilities \uf0b7 Physical entry control for secure areas \uf0b7 Medical devices/equipment(s) protection \uf0b7 Heating, ventilation, and air conditioning  of critical areas and work places \uf0b7 Supporting mechanical and electrical equipment\u2019s \uf0b7 Surveillance of critical areas and work places \uf0b7 Security and protection of physical archives \uf0b7 Fire and environmental protection \uf0b7 Visitor management Objective : To ensure that information assets receive adequate physical and environmental protection, and to prevent or reduce probabilities of phy sical and environmental control/security compromises (loss, damage, theft, interference, etc.) Supporting or dependent entity policy references: 1) Clear Desk and Clear Screen Policy Page 38 of 116",
+      "label": "Advanced"
+    }
+  ],
+  "PE": [
+    {
+      "control_id": "PE 1.1",
+      "control_description": "The healthcare entity shall develop, implement and maintain a physical and environmental security policy, to ensure adequate physical and environmental protection of entities information assets. The policy sh all: 1. Be relevant and appropriate for entities operational and risk environment, concerning internal and external threats 2. Address requirements of secure storage of hazardous or combustible materials that ensures avoidance of : \uf0b7 human injuries or loss of life \uf0b7 damage to information and information systems 3. Consider classification of information assets and their physical presence 4. Define roles and responsibilities for actions expected out of physical and environmental security policy 5. Be reviewed, updated and mainta ined at planned intervals or during significant changes to operating or risk environment, whichever is earlier 6. Be r ead and formally acknowledged by all users 7. Be approved by entity\u2019s top management or head of the entity, and shall be communicated to all emp loyees and third parties having role in care delivery",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 1.2",
+      "control_description": "The healthcare entity shall establish procedures and guidelines in support of policy implementation",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "PE 1.3",
+      "control_description": "The physical and environmental policy shall consider equipment and medical devices, with specific focus on their : 1. Physical and environmental demands, as needed by the manufacturer recommendations and regulatory requirements 2. Placement and physical access 3. Probabilities of data loss during maintenance, decommissioning and/ o r authorized off -site activities UAE IA Reference: T2.1.1, T2.3.5 Page 39 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 2.1",
+      "control_description": "The healthcare entity shall define and use security perimeters to protect facilities that contain information and information systems. The healthcare entity shall : 1. Identify secure areas, and define security perimeter, based on information assets contained within or information being processed 2. Ensure adequate securi ty counter measures are applie d to identified secure areas to protect information and information systems within 3. Secure areas of medical equipment and devices hosting or usage to avoid and minimize probabilities of unauthorized access and usage 4. Consider the impact of compromise of conf identiality, integrity and availability of information or information assets while applying security counter measures",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 2.2",
+      "control_description": "Allocate secure private areas to discuss personal health information by authorized stakeholders",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "PE 2.3",
+      "control_description": "Secure area s shall be protected by appropriate control measures to ensure only authorized personnel are provided access and authorized activities are being conducted. The healthcare entity shall : 1. Maintain List of authorised personnel having access to secure areas 2. Aut henticate all persons accessing secure areas 3. Maintain records for secure area access 4. Ensure that all employees and contractors wear distinguished form of visible identification (Badge/ID cards)  within the premises of the entity 5. Ensure the locking mechanism s on all access doors are adequate, and alarms configured to alert prolonged open -state of doors 6. Escort contractors or third parties while inside the secure areas 7. Deploy closed circuit television (CCTV/surveillance camera) in identified vantage points of s ecure areas  as required by Monitoring and Control Centre (MCC) Abu Dhabi 8. Preserve CCTV footage for a period as required by Monitoring and Control Centre (MCC) Abu Dhabi Page 40 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 2.4",
+      "control_description": "The healthcare entity shall nominate owners for each identified secure ar eas. Nominated owners of secure area shall : 1. Review access records/logs and surveillance footage at least on a quarterly basis 2. Reconcile list of authorized users, having access to secure areas 3. Maintain a list of physical key inventory, as with whom the key s of secure areas are with",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "PE 2.5",
+      "control_description": "Offices, meeting rooms and facilities in support of healthcare service delivery shall be equipped with adequate physical security measures. The healthcare entity shall : 1. Demarcate and isolate public access are as and key work areas, to restrict public or visitor or customer access to key work areas of the facilities 2. Avoid obvious signs that indicates the type of information or activities in the secure areas",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 2.6",
+      "control_description": "The healthcare entity  shall design and ap ply physical protection against natural disasters, environmental threats, external attacks and/or accidents. The healthcare entity shall : 1. Ensure that fall -back equipment, device, system and backup media are protected from damage caused by natural or man -made disasters 2. Battery power backup shall be available to provide power to key information systems and critical data cen tre infrastructures",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 2.7",
+      "control_description": "The healthcare entity shall ensure that physical and environmental protection countermeasures and proced ures applied are aligned with the outcome of Risk Assessment and regulatory mandates.",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "PE 2.8",
+      "control_description": "The healthcare entity shall design physical protection and guidelines for working in secure areas. The healthcare entity shall : 1. Supervise activities  in secure areas 2. Control access of mobile, portable and surveillance devices/equipment/utilities, to secure areas",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 2.9",
+      "control_description": "Ensure all personnel accessing secure areas is aware of security requirements and arrangements, and accepts rules and guideline s concerning security measures. The healthcare entity shall : 1. Educate employees and contractors, not to discuss personal health information in public areas Page 41 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "PE 2.10",
+      "control_description": "The healthcare entity shall have segregated delivery and loading areas and shal l establish control measures over entry and exit. The healthcare entity shall : 1. Establish access procedures to loading and unloading areas to restrict access to only authorized personnel 2. Inspect and register incoming and outgoing materials, in accordance with healthcare entity\u2019s asset management procedures UAE IA Reference: T2.2.1 , T2.2.2, T2.2.3, T2.2.4, T2.2.5, T2.2.6 Page 42 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 3.1",
+      "control_description": "The healthcare entity shall site/p osition equipment and medical devices in manner that they are always protected. The healthcare entity shall : 1. Establish guidelines on physical protection and unauthorized access of equipment and medical devices 2. Consider environmental risk condition  while po sitioning of equipment and medical devices",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 3.2",
+      "control_description": "The healthcare entity shall protect equipment and medical devices from disruptions caused by failures in supporting utilities. The healthcare entity shall; 1. Ensure uninterrupted power provisions to in formation processing systems",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "PE 3.3",
+      "control_description": "The healthcare entity shall maintain supporting equipment, to ensure their continued  availability. The healthcare entity shall : 1. Document supplier s\u2019 recommendations for the maintenance of equipment and make them available to maintenance personnel. 2. Establish operating procedures for commissioning, maintenance and decommissioning of equipment activities 3. Establish maintenance schedule of supporting utilities, and maintain up - to date records for maintenance carri ed out",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "PE 3.4",
+      "control_description": "Power, telecommunication and cables carrying data shall be secured and protected. The healthcare entity shall : 1. Ensure that power, telecommunication and data cables are protected against physical tampering 2. Segregate power and telecom munication/data cables  to avoid interference Page 43 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 3.5",
+      "control_description": "The healthcare entity shall identify and apply security measures to protect equipment, medical devices and information processing systems while off - site. The healthcare entity shall : 1. Ensure manuf acturer\u2019s recommendation and instructions are followed, while equipment, medical devices and information processing systems are off -site 2. Ensure that movement and possession (chain of custody) logs for off -site equipment, medical devices and information pro cessing systems maintained and verified 3. Ensure security measures are applied to protect off -site equipment, medical devices and information processing systems from probabilities of information leakage, tampering and unauthorized activities",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "PE 3.6",
+      "control_description": "The healthcare entity shall ensure that unattended equipment, medical devices and information processing systems are protected against information leakage and unauthorized activities. The healthcare entity shall : 1. Define user responsibilities and establish  procedures when leaving equipment, medical devices and information processing systems unattended 2. Implement controls to protect equipment, medical devices and information processing systems when left unattended",
+      "label": "Basic"
+    },
+    {
+      "control_id": "PE 3.7",
+      "control_description": "The healthcare entity shall def ine and enforce a clear desk and clear screen policy to paper documents, removable storage media, and information processing systems. The clear desk and clear screen policy shall : 1. Define user responsibilities with respect to clear desk and clear screen requirements 2. Be appropriate to the purpose and objectives of the healthcare entity 3. Read and acknowledged by all employees and contractors of the healthcare entity UAE IA Reference: T2.3.1, T2.3.2, T2.3.3, T2.3.4, T2.3.5 , T2.3.7,  T2.3.8, T2.3.9 Page 44 of 116 4. Access  Control Healthcare entities ability to provide authorized access and its commitment to control unauthorized access to information and information processing systems under its custody are key elements to demonstrate the entities\u2019 objective interest to prot ect information that belongs to: \uf0b7 Its customer s, \uf0b7 Patient s of the Abu Dhabi healthcare ecosystem, \uf0b7 The Government , and \uf0b7 The healthcare entit ies themselves. The influence of information on the delivery of healthcare and related services and the increased depend ence on application and technology, demands that the avenues and provisions of access are strictly controlled.  It is essential that healthcare entities understand the responsibilities concerning access management and are accountable for the consequences ar ising from breaches or disclosures from their respective areas of authority. Healthcare entities shall define policy mandates and process mechanisms essential to secure and protect their information and information systems.  Healthcare entities shall take specific care when personal health information is being accessed and used  s, and shall define access criteria that conforms  to the following facts: \uf0b7 A healthcare relationship exists between the user and the data subject (the subject of care whose personal h ealth information is being accessed) , \uf0b7 The user is carrying out an activit y on behalf of the data subject, \uf0b7 There is a need for specific data to support care delivery or continuum of care. Healthcare entity\u2019s management shall be aware of the risk environment  and outcomes of unauthorized access, and are accountable for any and all consequences and impact on: \uf0b7 Abu Dhabi Government \uf0b7 Abu Dhabi Healthcare -ecosystem or Health Sector \uf0b7 Patients concerned \uf0b7 Healthcare entity itself Page 45 of 116 Objective: To ensure access to informa tion and information systems are controlled, and to minimize probabilities of information leakage, tampering, loss and system compromises. Supporting or dependent entity policy references: 1) Clear Desk and Clear Screen Policy 2) Network Access Control Policy 3) Password Management Policy 4) Information Access Management as part of Administrative Safeguards of HIPAA 5) Facility Access Control as part of Physical Safeguards of HIPAA 6) Access Control as part of Technical Safeguards of HIPAA The level of applicability of abov e-mentioned policies will vary depending on the individual healthcare entity. Page 46 of 116",
+      "label": "Basic"
+    }
+  ],
+  "AC": [
+    {
+      "control_id": "AC 2.1",
+      "control_description": "The healthcare entity shall implement a formal user registration and de - registration process. The healthcare entity shall : 1. Ensure re quest for user registration and de -registration are process driven, and are in compliance with established criteria for access 2. Ensure unique user accounts are created for each individual requiring access, and prohibit sharing of same account with multiple users 3. Ensure group user account are not created or used 4. Revoke user accounts during employee exit 5. Revalidate access requirements during role change 6. Maintain records/list of persons authorised to use healthcare entity\u2019s information systems, applications, me dical devices and equipment 7. Establish and follow separate user registration and de -registration process for temporary and third party user account requirements Ac 2.2  The healthcare entity shall restrict and control allocation of privileges, based on principles of need to know. The healthcare entity shall : 1. Ensure normal user accounts are not used as service accounts or used to conduct privileged application and system level activities 2. Privilege or administrative accounts shall be used by individual w ith a role to conduct privilege activities 3. Ensure users privileges are restrictive in nature, and are assigned based on needs to conduct business activities 4. Privilege or administrative accounts shall not be used for conducting normal day to day operational  activity 5. Ensure usage of service accounts are controlled, and are not hardcoded in application codes are scripts 6. Enforce multifactor authentication scheme for all administrative  access 7. Mandate administrative or privilege access and associated activities  are logged and audited Page 48 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "AC 2.3",
+      "control_description": "The healthcare entity shall establish process for secure allocation, use and management of security credentials. The healthcare entity shall : 1. Ensure default application and system passwords are changed and not being  used 2. Ensure passwords are always hashed and stored in encrypted format 3. During initial user account creation, communicate details of user account and password in two different communication modalit ies 4. Enforce complexity requirements on password characters,  and shall have at least : a. Eight characters b. One number, one upper -case and lower -case character, and a special character 5. Enforce passwords, including that of service accounts and privileged accounts, are recycled at an entity -defined time frame 6. Ensure that password history is maintained, and shall restrict users from using immediately used previous passwords  (at least 3 previous passwords) 7. Educate users to adopt good practices while selecting and using passwords UAE IA Reference: T5.2.1, T5.2.2, T5.2 .3,  T5.3.1, T5.5.3 Page 49 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 3.1",
+      "control_description": "The healthcare entity shall protect confidential and secret information on portable or removable media, mobile or port able devices, and medical equipment or devices. The healthcare entity shall : 1. Authenticate user, where relevant, access to equipment, devices and media 2. Ensure media containing confidential and secret information is password protected and encrypted 3. Where rel evant, control access to medical equipment and devices through password enforcement in compliance with the healthcare entities password complexity and usage requirements 4. Control access to mobile and portable devices hosting confidential and secret informat ion 5. Establish mobile device management process to protect entity information being used, processed or stored in mobile devices",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AC 3.2",
+      "control_description": "The healthcare entity shall control access to equipment, devices , system and facilities at teleworking sites . The healthcare entity shall : 1. Ensure access to equipment, devices , system and facilities at teleworking sites are authenticated, and their access to entity resources are authorized based on need 2. Ensure confidentiality and protection of healthcare and pers onal health information while providing/consuming services through teleworking principles, including telemedicine related services 3. Conduct random audit of equipment, devices , system and facilities at teleworking sites 4. Maintain an inventory of assets in us e at teleworking sites UAE IA Reference: T5.7.1, T5.7.2 Page 50 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AC 5.2",
+      "control_description": "The healthcare entity shall use appropriate authentication methods to  control access of remote users The healthcare entity shall : 1. Ensure all remote login and access are only through secure channels 2. Consider usage of multifactor authentication scheme to control access by remote users",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 5.3",
+      "control_description": "The healthcare entity shall identify all equipment and devices connected to its network, and shall have au tomated mechanism to detect una uthorized equipment and devices",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 5.4",
+      "control_description": "The healthcare entity shall control access for the purpose of diagnostic and configuration The healthcare entity shall : 1. Identify and whitelist all ports, services and utilities th at are used for troubleshoot ing, and for diagnostics and configuration  purposes 2. Define protection mechanism for the diagnostic and configuration services and utilities that are essential, and disable services and utilities that are not required. 3. Restrict a ccess for remote troubleshooting, diagnostic and configuration to authorized roles and shall be allowed from authorized workstations 4. Log all remote access activities related to troubleshooting, diagnostic and configuration",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "AC 5.5",
+      "control_description": "User access to s hared and isolated networks shall be restricted The healthcare entity shall : 1. Provide access to shared and isolated networks in line with its Access Control Policy, requirements of business applications and need to access shared resources Page 52 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 5.6",
+      "control_description": "The healthcare entity shall define and implement network routing controls to ensure information flow and system, devices, equipment connections are not compromised and are in line with requirements of Access Control Policy The healthcare entity shall : 1. Establis h process es for secure configuration and rules application for network routing requirements 2. Always ensure source and destination address and services or ports are used while defining and applying routing rules 3. Enable routing protection countermeasures to a void manipulation of routing systems and tables 4. Define and implement network architecture that segregates and isolates internal and publically accessible systems. 5. External connections to information systems and networks outside entity shall be managed thro ugh interfaces consisting of perimeter protection devices (such as firewalls) 6. Ensure that communications with external systems, networks and key internal systems are always monitored for malicious and suspicious payloads 7. Periodically scan for any covert ch annel connections to public networks bypassing entity security defence",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AC 5.7",
+      "control_description": "The healthcare entity shall ensure wireless access within the entity is secured. The healthcare entity shall : 1. Establish usage restrictions and secure configuration requirements 2. Establish authorization process for wireless access and usage 3. Ensure public and guest access are segregated and isolated from the entit y\u2019s internal network 4. Ensure that internal wireless is not broadcasted 5. Authenticate wireless connections  usin g strong encryption mechanism and  based on entity\u2019s internal authentication scheme 6. Control privileged and administrative activities are not carried out through the entit y\u2019s  wireless network 7. Restrict wireless access capabilities of medical equipment and d evices UAE IA Reference: T5.4.1, T5.4.2, T5.4.3, T5.4.4, T5.4.5, T5.4.6, T5.4.7 Page 53 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AC 6.1",
+      "control_description": "The healthcare entity shall establish and enforce  secure log -on and log -off procedures to control access to system and applications. The healthcare entity shall : 1. Ensure that access to entities systems, applications and services that process, use or store healthcare information are authenticated 2. Enforce a utomated locking of workstation /system  after a predefined period of inactivity 3. Establish authorization procedures, based on classification of systems, application, services and information in scope 4. Establish and enforce idle session time -out requirements 5. Automatically terminate inactive sessions after a predefined period of session inactivity 6. Display a logon banner that requires the user to acknowledge and accept security terms and their responsibilities before access to the system is granted",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 6.2",
+      "control_description": "The healthcare entity shall create unique identifier (user ID) for each users who require access to entities systems, applications or services, and shall implement a suitable authentication technique. The healthcare entity shall : 1. Grant each user with a uni que identifier 2. Ensure all user activities are logged with the associated identifier",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 6.3",
+      "control_description": "The healthcare entity shall restrict and control the use of utility programs and tools that might be capable of overriding system and application controls. The healthcare entity shall : 1. Identify essential system utilities an d tools and enforce appropriate controls for use 2. Provide access to system utilities and tools based on appropriate authorization 3. Maintain inventory of access to system utilities and tools 4. Mon itor use of system utilities and tools UAE IA Reference: T5.5.1 , T5.5.2, T5.5.4 Page 54 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "AC 7.1",
+      "control_description": "The healthcare entity shall restrict acces s to information and application system functions in accordance with the access control policy. The healthcare entity shall : 1. Ensure access to information and application access is restricted and based on need -to-know principles and appropriate authorizatio n 2. Enforce role -based access mechanisms 3. The need for access shall be justified by individuals responsibilities 4. Ensure that office assistants, cleaning staffs and other unauthorized personnel do not have access to healthcare data",
+      "label": "Basic"
+    },
+    {
+      "control_id": "AC 7.2",
+      "control_description": "The healthcare  entity shall isolate sensitive systems in a dedicated environment.",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "AC 7.3",
+      "control_description": "The healthcare entity shall implement controls and shall not expose non -public information to the general public. The healthcare entity shall : 1. Establish and enforce pr ocedures for publishing of public information to ensure non -public information i s not exposed accidently or deliberately 2. Establish and enforce procedure to periodically validate that non -public information is not exposed to the public domain 3. Validate relev ance of publicly available information 4. Ensure no healthcare and related data is exposed to the public domain UAE IA Reference: T5.6.1, T5.6.2, T5.6.3 Page 55 of 116 5. Operations Management Healthcare entities continual effort to sustain and improve risk env ironment demands the need for effective management of operational activities in support of information handling, processing, sharing and storage. Operations management aims to establish and/or strengthen healthcare entities processes and efforts to improve  and enhance control environment. Objective outcome of effective operations management includes, but is not limited to: \uf0b7 Improved security and reduce probabilities of compromise \uf0b7 Reduced errors \uf0b7 Controlled unauthorized activities \uf0b7 Regulated efforts \uf0b7 Increased e fficiency \uf0b7 Reduced security incidents The objectivity of providing healthcare services shall consider security and safety of assets (data, technology, and application) in support of service delivery and healthcare entities shall demonstrate commitment in de fining and controlling of operational activities concerning service delivery. Objective : To ensure that activities concerning support and maintenance of data, technology, and application are controlled and carried out in a standardized manner to reduce pr obabilities of errors and compromises, and to increase efficiency and security. Supporting or dependent entity policy references: 1) Change Management Policy 2) Capacity Management Policy 3) System Acceptance Policy 4) Quality Management Policy 5) Backup Policy 6) Monitor ing Policy Page 56 of 116",
+      "label": "Transitional"
+    }
+  ],
+  "OM": [
+    {
+      "control_id": "OM 2.3",
+      "control_description": "The healthcare entity shall control changes to information systems and application, medical devices and equipment The healthcare entity shall: 1. Establish a Change Advisory Board to authorize changes 2. Define and enforce a change management process that addresses the following elements: a. Identification and recording of significant changes b. Planning and testing of changes c. Assessment of potential impacts d. Formal approval procedure e. Communication of change to all relevant stakeholders f. Roll -back plan to be utilized during unsuccessful changes g. Post implementation as sessment h. Maintenance of previous version of software, code and configurations 3. Define information systems and applications, medical devices and equipment that shall be covered by the Change Management Process",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "OM 2.4",
+      "control_description": "The healthcare entity shall  establish a process that controls transition of information systems and applications The healthcare entity shall: 1. Ensure that movement of system and applications from development or project state to operational or production state are managed through the Authorization and Change Process",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "OM 2.5",
+      "control_description": "The healthcare entity shall identify and segregate roles of conflicting interests and assign responsibilities accordingly The healthcare entity shall: 1. Implement suitable alternative or compensating controls when roles of conflicting interests cannot be assigned to different individuals",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "OM 2.6",
+      "control_description": "The healthcare entity shall identify and separate development, test, staging and operational environments The healthcare entity shall: 1. Identify the a ppropriate level of protection  between operational, staging, test, and development environments 2. Document and apply clear processes for the transfer of data, information, code, configuration, software and systems between environments 3. Ensure as -is operationa l data is not used in test environment 4. Restrict usage/migration of test data into operational environment UAE IA Reference: T3.2.1, T3.2.2, T3.2.3, T3.2.4, T.3.2.5 Page 59 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "OM 6.3",
+      "control_description": "The healthcare entity shall preserve logs in a centralized log management system The healthcare entity shall: 1. Control access to the centralized log management so lution 2. Ensure the centralized log management solution is managed by individuals who do not have operational role in implementing or maintain information systems or application 3. Retain logs for a period commensurate with legal, regulatory and entity demands on each type of log 4. Define use cases and dashboards based on the entity\u2019s needs and industry recommendations, and shall consider: a. System utilisation and performance trends b. Deviation from entity policy and procedures c. Access control variances and violations d. Any potential sign of security breach or attack",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "OM 6.4",
+      "control_description": "The healthcare entity shall synchronize clock of all information systems with an agreed time source The healthcare entity shall: 1. Standardize date/time format and enforce the standard time to be used in all systems 2. Ensure clock of medical devices and equipment are same as that of the connected systems 3. Regularly check that the clocks of all relevant information processing systems are synchronized.",
+      "label": "Basic"
+    },
+    {
+      "control_id": "OM 6.5",
+      "control_description": "The healthcare entity shall define  and establish formal procedure for updates and patching of information system and application, medical devices and equipment The healthcare entity shall: 1. Ensure all systems and devices that process or communicate information are patched and protected 2. Define criteria and process for application of standard, urgent and critical patches 3. Ensure all critical security patches are applied as soon as practicable from the date of release. 4. Ensure patches are deployed to a subset of systems or devices to allow testi ng before deployment to all. 5. Ensure firmware on devices are updated 6. Periodically validate patch status of systems and devices in use Page 64 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "OM 6.6",
+      "control_description": "The healthcare entity shall monitor information processing systems to prevent opportunities for information l eakage The healthcare entity shall: 1. Implement data leakage prevention (DLP) measures UAE IA Reference: T3.6.1, T3.6.2, T3.6.3, T3.6.4, T3.6.5, T3.6.6, T3.6.7, T7.6.4, T7.7.1 Page 65 of 116",
+      "label": "Transitional"
+    }
+  ],
+  "CM": [
+    {
+      "control_id": "CM 1.1",
+      "control_description": "The healthcare entity shall d evelop, enforce and maintain a communications policy, to ensure information in transit and information being exchanged are adequately protected The policy shall : 1. Be relevant and appropriate to the entity\u2019s information exchange and communications demands 2. Demonstrate management commitment, objectives and directions 3. Establish management demands on: a. Protection of communication infrastructure b. Communication and protectio n of personal health information c. Information exchange agreements d. Integration methods e. Physical mode of information exchange f. Electronic and/or online transactions g. Information exchange within and beyond entity boundaries h. Business information systems 4. Provide f ramework to protect information in transit from interception, copying, modification, misrouting, destruction and any other unauthorized activities UAE IA Reference: T4.1.1 Page 68 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 2.1",
+      "control_description": "The healthcare entity shall d evelop, enforce and maintain formal procedures on information exchange and transfer incorporating control measure that protects information during information exchange and transfer The procedures shall: 1. Include control measures to protect and reduce probabilities of compromise during information exchange and transfer taking into account: a. Classification and value of information b. Information exchange and processing environment c. Stakeholders involved 2. Identify minimum technical standards for packaging and transmission of health information 3. Establish responsibilities and sanctions  for actions and deviations 4. Define actions to be taken during issues, incidents and deviations",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "CM 2.2",
+      "control_description": "The healthcare entit y shall ensure that critical and private information is protected while in transit The healthcare entity shall: 1. Ensure that user -name and password are communicated using two different communication channels (email and SMS -text, or email and phone, etc.) 2. Encrypt critical information before transferring and sharing encryption/decryption key using a different communication channel",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 2.3",
+      "control_description": "The healthcare entity shall develop secure practices and capabilities while sharing information The healthcare entity  shall: 1. Protect information that is exchanged within the entity 2. Ensure that information exchanged between entities, and information sharing communities are protected 3. For custom -developed applications, ensure that the exchange or transfer of information bet ween systems  and applications  uses appropr iate interoperability standards 4. Identify and implement security requirements for exchanging information and software with third p arties Page 69 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 2.4",
+      "control_description": "The healthcare entity shall establish agreements between the ent ity and external parties for the exchange of information and software The healthcare entity shall, prior to the beginning of exchange of information and software: 1. Brief and agree with the external parties on all security requirements to be included in the  agreement 2. Include additional control requirements when exchange of information includes: a. Protected health information (PHI) b. Personally identifiable information (PII) 3. Clearly define roles and responsibilities of each party to the agreement 4. Establish non -disclosure agreements for all disclosures between the entity and the external parties 5. Include in the agreements: a. Definitions of information to be protected b. Duration of agreement c. Process for notification of leakage d. Ownership e. Right to audit and monitor activit ies that involve personal health information  and personally identifiable information",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 2.5",
+      "control_description": "The healthcare entity shall ensure that external parties involved in the exchange of information and software are aware of the security requirements to be im plemented The healthcare entity shall: 1. Ensure all security requirements formally agreed between the entity and the external parties are implemented and are effective Page 70 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "CM 2.6",
+      "control_description": "The healthcare entity shall protect physical media containing informa tion during transit The healthcare entity shall: 1. Identify and ensure that physical media containing sensitive is classified in accordance with the established classification scheme 2. Ensure that physical media in transit containing sensitive information is protected against: a. Information disclosure or leakage b. Loss of information or media c. Modification d. Unauthorized access 3. Ensure that physical media in transit containing sensitive information is adequately tracked 4. Utilize trusted entity staff or courier service f or transporting media",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 2.7",
+      "control_description": "The healthcare entity shall protect information involved in  electronic messaging The healthcare entity shall: 1. Identify and categorize all means of electronic messaging through which the entity information can be transmi tted 2. Define specific control requirements for each identified category of electronic messaging 3. Ensure exchange of information is based on need and are addressed to authorized and legitimate resources 4. Ensure appropriate electronic signatures containing leg al disclaimers are used for electronic messaging.",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "CM 2.8",
+      "control_description": "The healthcare entity shall develop, enforce and maintain procedures to secure information transferred across business information systems The procedures shall: 1. Identify all points of i nterconnections and integrations between business information systems and identify the information to be protected 2. Identify adequate security measures to be applied to protect each type of information UAE IA Reference: T4.2.1, T4.2.2, T4.2.3, T4 .2.4, T4.2.5 Page 71 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "CM 3.1",
+      "control_description": "The healthcare entity shall protect electronic commerce service and information involved passing over public and untrusted networks from serv ice compromise and fraudulent activity, contract dispute, unauthorized disclosure and modification The healthcare entity shall: 1. Maintain a list of electronic commerce services along with details of: a. Service details and information involved b. Electronic comme rce service provider and partner detail c. Beneficiary details 2. Identify and implement security measures to protect information used in electronic commerce services 3. Ensure security requirements are agreed and captured in service agreements with electronic comm erce partners",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "CM 3.2",
+      "control_description": "The healthcare entity shall protect information involved in online transactions against incomplete transmission, misrouting, unauthorized message alteration, unauthorized disclosure and unauthorized message duplication or replay The healthcare entity shall: 1. Identify all information used in online transactions 2. Identify and implement security measures to protect information used in online transactions 3. Ensure security requirements are agreed and captured in service agreements  with partners involved in online transactions",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "CM 3.3",
+      "control_description": "The healthcare entity shall protect information available through the publicly accessible system The healthcare entity shall: 1. Identify all information available through the publicly access ible system 2. Establish process to publish and maintain information on the publicly accessible systems 3. Ensure information is sanitized and approved before publication 4. Define security measures to publish information on publicly accessible systems 5. Ensures that  information available through the publicly accessible system is always available and is protected against unauthorized modification UAE IA Reference: T4.3.1, T4.3.2, T4.3.3 Page 72 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "CM 4.1",
+      "control_description": "The healthcare entity shall ensure that connectivity to information sharing platforms is secure and controlled The healthcare entity shall: 1. Maintain a list of information sharing platforms that the entity connects to an d/or operates 2. Determine security requirements for connecting to or release of information into identified information sharing platforms 3. Establish security requirement for accessing entity operated information sharing platforms 4. Develop required capabilities  to establish secure connectivity to any required sector, national or international information sharing community",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "CM 4.2",
+      "control_description": "The healthcare entity shall not use cloud services or infrastructure to store, process or share information that contains hea lth information The healthcare entity shall: 1. Ensure that healthcare information is not transmitted outside the UAE 2. Identify and disconnect integration of system that process, store or utilize health information with any of the entity\u2019s systems that connect  or utilize cloud services 3. Not share identified or de -identified health information with 3 rd parties, inclusive of counterparts and partners, unless authorized by the health sector regulator of Abu Dhabi",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 4.3",
+      "control_description": "The healthcare entity shall ensure th at access to health information exchange platforms within the UAE is strictly controlled The healthcare entity shall: 1. Ensure that access to health information exchange platforms are provided to resources with an authorized need and are not misused 2. Periodic ally validate and verify access requirements to health information exchange platforms 3. Conduct frequent assessments and audits to identify misuse and ensure compliance 4. Report on incidents and misuse to the health information exchange operator and the healt h sector regulator of Abu Dhabi UAE IA Reference: T4.4.1, T4.4.2. T.6.3.1 Page 73 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 5.1",
+      "control_description": "The healthcare entity  shall ensure that all networks and supporting infrastructures are adequately managed, controlled and protected The healthcare entity shall: 1. Ensure that all network components and interconnections are identified and sufficiently documented , including documentation of updates incorporated via the chang e management process 2. Ensure that network documentation includes up to date diagrams 3. Identify threats and vulnerabilities affecting network components and network as a whole 4. Implement specific security controls to mitigate identified vulnerabilities 5. Central ize the management of access c ontrol to networking components 6. Ensure that only trusted devices and users can g ain access to internal networks 7. Continually monitor implemented controls for their efficiency and effectiveness",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 5.2",
+      "control_description": "The healthcare entit y shall identify and enforce security requirements, service levels, and management requirements as part of relevant network services agreements The healthcare entity shall: 1. Specify specific security requirements essential for each of its network services 2. Establish minimum security requirements for each identified service 3. Establish service levels for internal and external network service providers 4. Evaluate service level compliance and report deviation to relevant authorities Page 74 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "CM 5.3",
+      "control_description": "The healthca re entity shall segregate physical, logical and wireless networks based on criticality, nature of services and users information systems The healthcare entity shall: 1. Establish criteria for network segregation 2. Establish and maintain appropriate network secu rity zones, allowing data flow follow through  controlled path 3. Establish minimum and specific security requirements for each of the segregated networks, zones and resources 4. Periodically evaluate the adequacy of implemented segregation strategy",
+      "label": "Basic"
+    },
+    {
+      "control_id": "CM 5.4",
+      "control_description": "The healthcare entity shall ensure that all wireless networks are adequately protected The healthcare entity shall: 1. Conduct site survey to determine the optimal physical location for the placement of wireless access -points or devices to avoid stray signal leaking outside the entity\u2019s physical boundary 2. Ensure that wireless access points are configured to use strong authentication and cryptographic methods 3. Ensure that only trusted devices and users gain access to internal networks via wireless access 4. Ensure that guest access provided to visitors and guest are physically and logically isolated and shall not traverse through the entity\u2019s internal network 5. Monitor access and usage of guest wireless facilities UAE IA Reference: T4.5.1, T4.5.2, T4.5.3, T4.5 .4 Page 75 of 116 7. Health Information and Security Health information has become fundamental to the provision of healthcare services. Healthcare entities generate and utilize healthcare information and establish relations with individuals to give the information a persis tent value during its lifecycle of usage and references. Privacy of health information is a patient\u2019s basic right, by law and principles, and shall be protected. Healthcare entities shall demonstrate care, prudence and determination in protecting healthca re information under their custody, and uphold the public trust placed  on them. It is a government mandate that healthcare information be considered as highly classified data element, to be protected through its lifecycle . Healthcare entities shall establi sh control measures that shall prevent and minimize probabilities of : \uf0b7 Unauthorized access and/or usage of healthcare data \uf0b7 Unauthorized or accidental modification of healthcare data \uf0b7 Leakage of healthcare data \uf0b7 Loss of healthcare data Healthcare entities shal l consider critical: \uf0b7 One\u2019s physical or mental health conditions or state, \uf0b7 Clinical decisions  and healthcare services provided \uf0b7 Payments concerning  healthcare service s provi ded  or envisioned Objective : To ensure healthcare information are suitably protect ed to uphold public trust and reliability on governmental interest and values, and to sustain entity reputation in the provisioning of healthcare services. Supporting or dependent entity policy references: 1) Information Security Management Policy 2) Acceptable  Usage Policy 3) Compliance Policy 4) Disciplinary Actions Policy Page 76 of 116 HI 1  Health Information Protection Policy Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HI 1.1",
+      "control_description": "The healthcare entity shall develop, enforce and maintain a health information pr otection policy that ensures management\u2019s commitment to protect healthcare information The policy shall: 1. Define management requirements on; a. Criteria for access and acceptable usage b. Accountability and/or data ownership c. Healthcare data communication or shari ng 2. Mandate the requirements of non -disclosure and confidentiality during and after employment 3. Define government sanctions and legal obligations 4. Include reference to organizational disciplinary process UAE IA Reference: M5.2.4 Page 77 of 116 HI 2  Health Informat ion Privacy and Protection Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "HI 2.1",
+      "control_description": "The healthcare entity shall ensure that healthcare information under its custody is suitably protected The healthcare entity shall: 1. Conduct orientation on hea lthcare information protection and sanctions to all its employees, relevant contractors and third parties prior to their access to healthcare information 2. Establish stricter process to ensure clear desk and clear screen practices are adhered to in areas whe re healthcare information is used, processed or handled 3. Define and enforce criteria for healthcare information access 4. Ensure access to health information systems and applications are restricted for individuals possessing a valid licence to practice their profession within the UAE, and any exception shall be authorized by entity CISO based on adequate justification 5. Control and restrict privileges for printing and sharing of healthcare information 6. Ensure cleaning staff access to areas where patient related he althcare information is being viewed, accessed, used, processed, stored and/or destroyed are monitored or under surveillance coverage 7. Ensure any hardcopy/media containing healthcare information is shredded after its usefulness 8. Establish processes for shre dding all hardcopy documents before their disposal 9. Ensure that healthcare information with personal identifiers is not available unattended 10. Ensure printing of healthcare information is limited to local printers and are not printed through uncontrolled netw ork printers 11. Establish processes to notify the health sector regulator of any probabilities of breaches involving healthcare information UAE IA Reference:  M5.2.4 Page 78 of 116 8. Third Party Security Operational efficiency, time to deliver and cost saving aspec ts compels entity management to utilize third party services or resources to complement service delivery. Involvement of third parties in the process of care delivery and associated areas are inevitable and needs stronger control measures to secure entity assets and information. Healthcare entity management shall be cognizant of the fact that a significant portion of privacy breach es originates with organizations that contracted activities and services to third parties. Adequate due diligence to activities  and services to be contracted, and a proactive identification and definition of control environment to secure privacy and information assets would minimize damages and benefit healthcare entities and the government. Entities that entrust access to third p arties acknowledge and share responsibilities for the breaches. A healthcare entity\u2019s management shall be aware of the risk environment related to  third party services and resources , establish a suitable framework for third party management and define a control environment that shall : \uf0b7 Reduce probabilities of information leakage and loss \uf0b7 Secure information assets \uf0b7 Minimize unauthorized access and usage \uf0b7 Uphold organizational and governmental reputation \uf0b7 Ensure service continuity Objective : To ensure third party  services are controlled through suitable procedural obligations and contractual terms to secure privacy and protect information assets. Supporting or dependent entity policy references: 1) Access Control Policy 2) Operations Management Policy 3) Procurement Poli cy 4) Supply Chain Management Policy 5) Compliance Policy Page 79 of 116",
+      "label": "Basic"
+    }
+  ],
+  "TP": [
+    {
+      "control_id": "TP 1.1",
+      "control_description": "The healthcare entity shall d evelop, enforce and maintain a third party security policy  to facilit ate implementation of the associated controls and to reduce probabilities of risk realization concerning third parties The policy shall : 1. Be relevant and appropriate to the relationship of the entity and the third party 2. Establish a framework that facilitate s: a. Secure management of third party services and their role in healthcare and/or related services b. Defining and including information security objectives c. Third party briefing of security requirements d. Definition of roles and responsibilities 3. Demonstrate man agement\u2019s commitment, objectives and directions 4. Establish management\u2019s expectations on: a. Privacy and protection of information assets b. Access to system, application, device, equipment and critical area c. Non disclosures and terms of use 5. Be read and acknowledg ed by stakeholders and third party representatives authorized to sign on their behalf UAE IA Reference: T6.1.1 Page 80 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "TP 2.1",
+      "control_description": "The healthcare  entity shall identify and enforce security requirements, service levels  and management requirements as part of relevant third party services agreements The healthcare entity shall: 1. Ensure that specific security requirements essential for each of type of services are included in the service delivery agreement 2. Establish minimum security requirements for each identified service 3. Ensure measures and minimum baselines for each of the identified security requirements are established and monitored 4. Establish servi ce levels for each of the service through third parties 5. Define and document the type of information that third party service provider needs access  to 6. Assign responsibility for managing third party relationships to an individual or service management team 7. Identify and include Right -to-Audit terms specific to the provisions and environment of service management 8. Coordinate with entity contract management and legal teams for third party service requirements that needs the storing, processing and transmission of  health and/or personally identifiable information",
+      "label": "Basic"
+    },
+    {
+      "control_id": "TP 2.2",
+      "control_description": "The healthcare entity shall monitor and review services provided and reports and records submitted by third parties The healthcare entity shall; 1. Monitor compliance of security requirements id entified in agreement s with third parties 2. Monitor third party services and ensure required reports are received and reviewed by qualified entity resource 3. Imp lement controls for monitoring the exchange of information between various parties to ensure securi ty compliance 4. Manage incidents and contingencies associated with access and violations 5. Assess and manage business, commercial, financial and legal risk associated with third party services 6. Perform audits of third par ties services on  a regular basis  Transit ional Page 81 of 116",
+      "label": "Unknown"
+    },
+    {
+      "control_id": "TP 2.3",
+      "control_description": "The healthcare entity shall manage changes to the provisions of third party services through a formal management process The healthcare entity shall: 1. Ensure that changes to activities and provisions are in compliance with security requirement s 2. Include as part of the agreement, formal processes to manage changes 3. Define parameters of change that shall be communicated and agreed between the entity and the third party UAE IA Reference: T6.2.1, T6.2.2, T6.2.3 Page 82 of 116 9. Information Systems Acq uisition, Development, and Maintenance The demand for systems and applications to host and process information to deliver business values needs careful assessment of lifecycle aspects. Wide options and cost effective delivery models attract entities to determine easy to use and cost effective solutions, ignoring security aspects in order to quickly deliver on business values. Healthcare entity management shall identify  the relevant health information systems and applications, - related risk factors that impa ct the entities ability to provide reliable services, reputation and reliability of the solution/product or vendor. Healthcare entity management should be  aware  of the fact that the solution or the product selected will probably  introduce new risks that sh all managed through their  lifecycle s. Based on detailed assessment and entity risk appetite , the  healthcare entity\u2019s management shall choose from one of the below options : \uf0b7 In-house development, maintenance and support of application and systems \uf0b7 Outsource t he development, maintenance and support of application and systems \uf0b7 Out -of-shelf product deployment, maintained and support by the vendor \uf0b7 Cloud -based application utilization \uf0b7 Hybrid approach for the development, maintenance and support requirements Objective : To emphasis the need for healthcare entities to adopt  secure system and software development lifecycle management process es and to ensure that systems and applications in use are securely managed and supported to avoid misuse of privileges and authority,  reduce probabilities of information, system and application compromises, and to uphold entity and Abu Dhabi government\u2019s reputational value and public trust. Supporting or dependent entity policy references: 1) Access Control Policy 2) Operations Management Po licy 3) Communications Policy 4) Procurement Policy 5) Third party security policy 6) Compliance Policy Page 83 of 116 SA 1  Information Systems Acquisition, Development, and Maintenance Policy Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 1.1",
+      "control_description": "The healthcare ent ity shall d evelop, enforce and maintain an information systems acquisition, development and maintenance policy  to facilitate implementation of secure development and maintenance practices The policy shall : 1. Be relevant and appropriate to the model and relat ionship of the entity and involved internal and external stakeholders 2. Demonstrate management\u2019s commitment, objectives and directions 3. Establish a framework that facilitates: a. Defining and including information security objectives b. Selection of the right model  and approach c. Identification and mitigation of risks in involved business and application processes d. Definition of roles and responsibilities 4. Establish management expectations on: a. Privacy and protection of information assets b. Secure design, development, test ing, deployment, maintenance and support c. Secure access to systems, applications, devices, and equipment d. Secure processing and communication of information and data e. Non -disclosures requirements f. Cryptographic controls and requirements 5. Be read and acknowledge d by involved internal and external stakeholders UAE IA Reference: T7.1.1, T7.4.1 Page 84 of 116 SA 2  Security Requirement of Information Systems and Applications Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 2.1",
+      "control_description": "The healthcare entity shal l analyse, identify, develop and implement information security requirements for new information systems and applications or enhancements to existing systems and applications The security requirement  shall : 1. Be relevant to be used for new information system s or enhancements to existing information systems 2. Be approved by i ndividuals authorized to  do so  on behalf of business and information security 3. Be compliant with the requirements of this standard and secure coding practices 4. Address all risk elements identi fied during risk assessments 5. Outline validation criteria to verify control efficiency and effectiveness 6. Define system acceptance criteria 7. Be included and maintained in business and technical requirement documents",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 2.2",
+      "control_description": "The healthcare entity shall ensure developer of information systems, system components or information system services are provided suitable training prior to their involvement in development activities The healthcare entity shall: 1. Identify baseline training requirements that ar e essential to the developer 2. Acknowledge that developer(s) received relevant baseline training prior to their  involvement in development activities 3. Identify training requirements based on implemented security functions and features 4. Design and execute train ing programs to address additional and future security requirements 5. Include training requirement in agreements, when the requirements are delivered and managed by third parties UAE IA Reference: T7.2.1, T7.2.2 Page 85 of 116 SA 3  Correct Processing in A pplications Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 3.1",
+      "control_description": "The healthcare entity shall validate data input to applications to ensure that the data is correct and appropriate The healthcare entity shall: 1. Define criteria, rules and va lidation parameters to validate data input into applications 2. Develop or configure applications to drop input data that is identified as incorrect or inappropriate",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 3.2",
+      "control_description": "The healthcare entity shall incorporate validation checks into applicati ons to detect any corruption of information through processing errors or deliberate acts The healthcare entity shall: 1. Establish minimum requirements for validation checks on internal processing of application under development to ensure correct processing of data 2. Require application developers to provide evidence of compliance with minimum requirements 3. Ensure that the incorporated validation checks are valid and relevant over a period of time and meet minimum requirements through the applications\u2019 lifecycle s",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 3.3",
+      "control_description": "The healthcare entity shall ensure the authenticity and integrity of messages in applications The healthcare entity shall: 1. Identify and enforce requirements to ensure authenticity and integrity of messages transmitted between systems  and applications",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 3.4",
+      "control_description": "The healthcare entity shall validate data output from applications to ensure that data is correct and appropriate The healthcare entity shall: 1. Define criteria, rules and validation parameters to validate data output from applications Page 86 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 3.5",
+      "control_description": "The healthcare entity shall ensure that all distributed and mobile applications are designed with the ability to tolerate communication failure Distributed and mobile applications shall: 1. Include off -line and duplicate or out -of-sequence response message handling capabilities UAE IA Reference: T7.3.1, T7.3.2, T7.3.3, T7.3.4 Page 87 of 116 SA 4  Cryptographic Controls Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 4.1",
+      "control_description": "The healthcare entity shall esta blish key management to support the entity\u2019s use of cryptographic techniques Healthcare entities shall: 1. Establish process to: a. Securely generate and use cryptographic keys b. Revoke/block keys c. Repair damage or corrupted keys 2. Define standards for: a. Key strength for various environments b. Key storage 3. Protect secret and private keys against unauthorized use and disclosures UAE IA Reference: T7.4.2 Page 88 of 116 SA 5  Security of System Files Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 5.1",
+      "control_description": "The healthcare entity shall control the installation of software on operational systems The healthcare entity shall: 1. Ensure software installations are carried out only by authorized resources 2. Keep a copy of all software installed, including any previous vers ions 3. Ensure software installed in production systems are subject to entity change management process and approval",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "SA 5.2",
+      "control_description": "The healthcare entity shall protect system test data The healthcare entity shall: 1. Use sample data sets to test application, b usiness and security functionalities 2. Restrict the use of real data from production systems for testing, allowing it based on appropriate control and authorization from authoritative business and information security stakeholders 3. Maintain records of copying , using and erasing of operational information in test environment 4. Ensure that personally identifiable information is not used as test data 5. Erase any data from test applications immediately after completion of the test",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 5.3",
+      "control_description": "The healthcare entity shall restrict access to program source code The healthcare entity shall: 1. Ensure that access to program source code is strictly based on need and is in compliance with entity access control policy UAE IA Reference: T7.5.1, T7.5.2, T7. 5.3 Page 89 of 116 SA 6  Outsourced Software Development Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 6.1",
+      "control_description": "The healthcare entity shall supervise and have control over outsourced software development The healthcare entity shall: 1. Establish and enforc e a secure coding policy 2. Define quality assurance processes 3. Include in the outsourced software development agreement the requirement to comply with: a. All relevant healthcare entity policies, including information security and quality related policies, requi rements and functionalities b. Provisions of this Standard c. Regulatory and legal requirements d. Industry specific secure coding practices (OWASP) 4. Include in the agreement the right to audit clause 5. Conduct source code review to identify potential vulnerabilities,  back - door and malicious code 6. Control the number, rotation and termination of staff involved in outsourced development activities to restrict: a. Unauthorized access b. Leakage of information UAE IA Reference: T7.6.5 Page 90 of 116 SA 7  Supply Chain Managemen t Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SA 7.1",
+      "control_description": "The healthcare entity shall develop a comprehensive information security strategy against supply chain threats to the information systems and application, medical devices and equipmen t The healthcare entity shall: 1. Define policy to regulate the acquisition of products and services 2. Limit sharing of configuration and architecture with suppliers 3. Define system acceptance criteria for all new system purchase 4. Ensure product compliance with en tity information security requirements 5. Include in the contract: a. Right -to-Audit clause b. Non-disclosure requirements c. Terms to comply with entity information security policy and requirements d. Terms to comply with relevant federal and local government requiremen ts",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "SA 7.2",
+      "control_description": "The healthcare entity shall conduct supplier review prior to entering into contractual agreement to acquire information systems, medical devices and system/devices components or information system services The healthcare entity shall: 1. Define an evaluation process for suppliers of information systems, system components, medical devices and services 2. Periodically review supplier compliance to terms of the agreement and evaluation requirements 3. Include federal and local government requirement s as part of supplier review",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "SA 7.3",
+      "control_description": "The healthcare entity shall identify and limit harm from potential adversaries targeting the entity\u2019s supply chain The healthcare entity shall: 1. Limit information sharing with suppliers 2. When essential, share sec urely relevant and needed information through secure channel 3. Engage with a diverse set of suppliers for critical products and services Page 91 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "SA 7.4",
+      "control_description": "The healthcare entity shall employ security controls to protect supply chain operations The healthcare e ntity shall: 1. Evaluate risks to its information systems, medical devices, services and support operations 2. Agree with suppliers of systems, applications, medical devices equipment, related products/services on control measures and include them in the suppli er contract",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "SA 7.5",
+      "control_description": "The healthcare entity shall ensure a reliable (i.e. not modified to provide back -door access or covert channels) delivery of information systems, medical devices or system/devices components The healthcare entity shall: 1. Ensure information systems, system components, and medical devices are genuine and are satisfying system acceptance requirements 2. Ensure software delivered has not been altered or modified",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "SA 7.6",
+      "control_description": "The healthcare entity shall establish processes to address  weakness or deficiencies in supply chain elements The healthcare entity shall: 1. Identify and document supply chain elements and their interdependencies 2. Identify and address issues concerning supply chain elements 3. Conduct regular assessments and audits of s upply chain elements",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "SA 7.7",
+      "control_description": "The healthcare entity shall ensure adequate supplies of critical information systems, medical devices and system/devices components The healthcare entity  shall: 1. Establish contingency plans for the supply of any cri tical information systems, medical devices and system/devices components 2. Consider stockpiling of essential and critical spare components 3. Utilize multiple suppliers for critical components UAE IA Reference: T7.8.1, T7.8.2, T7.8.3, T7.8.4, T7.8.5,  T7.8.6, T7.8.7 Page 92 of 116 10. Information Security Incident Management The value of information has grown exponentially and has become a soft target for malicious intent communities, individuals and nation states to disrupt an organization\u2019s ability to conduct and sust ain business or to be in business, and to disrupt government\u2019s ability to provide services to its citizens and resident communities. Healthcare entit ies\u2019 utilization of technological advancement and innovation shall not be limited to service delivery ; rath er it shall also be to defend and respond to deliberate and accidental attempts to disrupt the entities\u2019  services. A healthcare entity\u2019s ability to quickly and confidently respond to and restore service disruption attempts contributes  the entity management \u2019s commitment to its vision and objective values towards service delivery. Healthcare entity \u2019s management shall be aware that information security incidents may not always be preventable . But adequate procedures, process and technologies to detect, report  and hand le, combined education and awareness can minimize their frequency, severity and impact on an entity\u2019s asset, reputation, financial and legal values. It is essential that serious information security incidents that can potential ly disrupt critical b usiness processes and services are promptly communicated to the appropriate authorities so that they get involved early in the decision -making and communication. Objective : To ensure that healthcare entities define and utilize suitable process es and resour ces to identify and respond to information security and cyber security incidents, that they  are not severely impacted by incident outcomes and that they are able to restore affected operations within an acceptable timeframe. Supporting or dependent entit y policy references: 1) Access Control Policy 2) Operations Management Policy 3) Communications Policy 4) Third party security policy 5) Compliance Policy Page 93 of 116",
+      "label": "Advanced"
+    }
+  ],
+  "IM": [
+    {
+      "control_id": "IM 1.1",
+      "control_description": "The healthcare entity shall d evelop, enforce and maintain an information security incident management policy , to manage and guide the entity\u2019s response to information security incidents The policy shall : 1. Be relevant and appropriate to the entity\u2019s operation  and risk environment 2. Demonstrate management commitment, objectives and directions 3. Establish incident management roles and responsibilities 4. Establish a proactive, collaborative and sustainable process of identifying and resolving adverse information securi ty incidents. 5. Establish management demands on: a. Incident identification b. Incident response c. Incident notification/communication d. Learning from incident 6. Be read and acknowledged by involved internal and external stakeholders UAE IA Reference: T8.1.1 Page 94 of 116",
+      "label": "Basic"
+    },
+    {
+      "control_id": "IM 2.1",
+      "control_description": "The healthcare entity shall establish process(es) to guide information security and cyber security  incident response activities The process(es)  shall : 1. Have tested procedures to handle incident situations before, during and after the occurrence of the incident 2. Plan for incident communication to affected stakeholders and relevant authorities 3. Management approval on plans and procedures",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "IM 2.2",
+      "control_description": "The healthcare entity shall establish a Computer Security Incident Response Team (CSIRT) responsible for incident management and response efforts The healthcare entity shall: 1. Establish CSIRT organization with adequate authority, essential roles and responsibilities 2. Identify and nominate competent resources for each identified role of the CSIRT 3. Establish communication and response protocols 4. Allocate adequate funds for CSIRT operations 5. Entity CSIRT shall coordinate with its counterparts within the he alth sector regulator of Abu Dhabi for incidents which will have significant/severe impact on the entity\u2019s assets or operations 6. Ensure that significant/severe impact incidents are reported to the health sector regulator of Abu Dhabi 7. Provide suitable traini ng to members of the CSIRT to cover: a. Past incidents and lessons learnt b. Current threat environment of the entity c. New threats and attack trends across the world",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "IM 2.3",
+      "control_description": "The healthcare entity  shall assess and classify information security incidents The healthcare entity shall: 1. Establish an incident classification scheme in line with the recommendations of the health sector regulator of Abu Dhabi 2. Define workflows to handle incidents of various classifications/severity Page 95 of 116",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "IM 2.4",
+      "control_description": "The healthca re entity shall test its  Computer Security incident response capabilities The healthcare entity shall: 1. Develop test procedures to validate the effectiveness of its incident response capabilities 2. Establish the expected outcome of test and compare test resu lts to identify gaps 3. Modify process and procedures to address gaps identified",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "IM 2.5",
+      "control_description": "The healthcare entity  shall document and preserve records on all information security incidents The healthcare entity shall: 1. Identify all relevant data and e vidence to be collected during and after realization of an information security incident 2. Establish procedures for collecting evidence taking into account the: a. Chain of custody b. Safety of evidence c. Safety of personnel d. Roles and responsibilities of personnel i nvolved e. Competency of the personnel f. Documentation g. Briefing h. Other identified requirements 3. Preserve documents, records and evidences in compliance with the entity\u2019s retention policy",
+      "label": "Transitional"
+    },
+    {
+      "control_id": "IM 2.6",
+      "control_description": "The healthcare entity shall institutionalize the learni ng from information security incidents The healthcare entity  shall: 1. Ensure lessons learnt from past information security incidents are maintained and shared with relevant stakeholders to aid in: a. Addressing future information security incidents b. Minimizing t he recurrence of such incidents 2. Build knowledge database on information security incident diagnosis and response UAE IA Reference: T8.2.1, T8.2.2, T8.2.3, T8.2.4, T8.2.5, T8.2.7, T8.2.8, T8.2.9 Page 96 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "IM 3.1",
+      "control_description": "The healthcare entity  shall develop a situational awareness culture by participating in the information sharing community and obtaining cybersecurity information from various s ources The healthcare entity shall: 1. Identify priority information and share it internally to build the entity\u2019s business model based -context 2. Ensure all identified cybersecurity information is relevant to the: a. Entity\u2019s business operations b. Entity\u2019s informati on system and application, medical devices and equipment c. Entity\u2019s processes and control environment d. Entity\u2019s risk environment 3. Establish and coordinate with the healthcare sector regulator of Abu Dhabi to receive relevant cybersecurity information",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "IM 3.2",
+      "control_description": "The healthcare entity  shall report information security events through appropriate management channels The healthcare entity shall: 1. Establish a formal channel for entities and external stakeholders to report information security events 2. Ensure all employees and third parties are aware of the need for reporting of information s ecurity events and breaches 3. Assign designated points of contact for information security events 4. Establish information security event reporting procedures 5. Establish information security event communication and reporting protocol to relevant stakeholders and authorities (including the healthcare sector regulator) Page 97 of 116",
+      "label": "Advanced"
+    },
+    {
+      "control_id": "IM 3.3",
+      "control_description": "The healthcare entity shall report observed or suspected information security weaknesses in systems or  application services (inclusive of medical devices and equipment) The healthcare entity shall; 1. Establish a formal channel for entities and external stakeholders to report information security weakness as soon as they are identified 2. Ensure all employees an d third parties are aware of the need for  reporting of information s ecurity weakness 3. Ensure no user exploits information security weakness UAE IA Reference: T8.3.1, T8.3.2, T8.3.3 Page 98 of 116 11. Information Systems Continuity Management Information systems an d applications have become fundamental to business operations. The ability of a healthcare entity\u2019s systems and applications to support identified critical services and processes would demonstrate the maturity of the healthcare entity\u2019s operational capabil ities. Even -though the demand on system and applications are identified through a different management process (Organizational Business Continuity), it is relevant for healthcare entities to align with such process to establish system, application and reso urce requirements concerning critical services and processes. Healthcare entities shall be proactive in identifying threat scenarios that may impact their  information systems and application environment , and device strategies and plans to ensure system, ap plication and resource availability to support service continuity of identified critical services. Objective : To ensure systems, applications and resources a re available to support service continuity requirements of identified critical services and process es during abnormal situations or environment. Supporting or dependent entity policy references: 1) Entity Business Continuity Policy 2) Entity Business Continuity/Recovery Plan 3) Operations Management Policy 4) Communications Policy 5) Compliance Policy Page 99 of 116 SC 1  Informat ion Systems Continuity Management Policy Control Demands  Control Criteria ",
+      "label": "Basic"
+    },
+    {
+      "control_id": "SC 1.1",
+      "control_description": "The healthcare entity shall d evelop, enforce and maintain an information system continuity planning policy  to manage scenarios that challenge th e continued availability of information systems and applications supporting critical business services The policy shall : 1. Be relevant and appropriate to the entity\u2019s information systems and applications continuity demands 2. Demonstrate management commitment,  objectives and directions 3. Establish roles and responsibilities of involved stakeholders 4. Establish management expectations on: a. Planning for information system and application continuity during adverse situations b. Compliance with organizational business cont inuity plans c. Testing of continuity and restoration plans 5. Be read and acknowledged by involved internal and external stakeholders UAE IA Reference: T9.1.1",
+      "label": "Transitional"
+    }
+  ]
+}
