@@ -66,8 +66,9 @@
         <div id="pagination" class="d-flex justify-content-center mt-3"></div>
         <button class="btn btn-primary mt-3" onclick="copyAll()">Copy All</button>
         <button class="btn btn-secondary mt-3" onclick="window.location.href='{% url 'upload_excel' %}'">Upload Another Excel</button>
-        <button class="btn btn-info mt-3" onclick="window.location.href='{% url 'query_view' %}'">Go to ChromaDB Query</button>
         <button class="btn btn-info mt-3" onclick="window.location.href='{% url 'upload_pdf' %}'">Go to PDF Upload</button>
+        <button class="btn btn-success mt-3" onclick="window.location.href='{% url 'select_json' %}'">Select JSON Files for Similarity Search</button>
+        <button class="btn btn-secondary mt-3" onclick="window.location.href='{% url 'home' %}'">Go to Home</button>
     </div>
 
     <script>

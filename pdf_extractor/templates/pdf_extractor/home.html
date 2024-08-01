@@ -10,9 +10,10 @@
 <body>
     <div class="container">
         <h1>Welcome to E.X.T.R.A.C.T</h1>
-        <button onclick="window.location.href='{% url 'upload_pdf' %}'">Go to PDF Upload</button>
-        <button onclick="window.location.href='{% url 'upload_excel' %}'">Go to Excel Upload</button>
-        <button onclick="window.location.href='{% url 'query_view' %}'">Go to ChromaDB Query</button>
+        <button onclick="window.location.href='{% url 'upload_pdf' %}'" class="btn btn-primary">Go to PDF Upload</button>
+        <button onclick="window.location.href='{% url 'upload_excel' %}'" class="btn btn-secondary">Go to Excel Upload</button>
+        <button onclick="window.location.href='{% url 'select_json' %}'" class="btn btn-info">Select JSON Files for Similarity Search</button>
+        <button onclick="window.location.href='{% url 'list_json_files' %}'" class="btn btn-info">View Extracted JSON Files</button>
     </div>
 </body>
 </html>

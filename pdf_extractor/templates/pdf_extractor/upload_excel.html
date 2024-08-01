@@ -21,13 +21,18 @@
                 <input type="file" id="file" name="file" class="form-control" required>
             </div>
             <div class="mb-3">
+                <label for="{{ form.version.id_for_label }}" class="form-label">{{ form.version.label }}</label>
+                {{ form.version }}
+                <div class="form-text">{{ form.version.help_text }}</div>
+            </div>
+            <div class="mb-3">
                 <label for="sheet_name" class="form-label">Sheet Name:</label>
                 {{ form.sheet_name }}
             </div>
             <button type="submit" class="btn btn-primary">Upload</button>
         </form>
         <button onclick="window.location.href='{% url 'upload_pdf' %}'" class="btn btn-secondary mt-3">Go to PDF Upload</button>
-        <button onclick="window.location.href='{% url 'query_view' %}'" class="btn btn-secondary mt-3">Go to ChromaDB Query</button>
+        <button onclick="window.location.href='{% url 'home' %}'" class="btn btn-info mt-3">Go to Home</button>
     </div>
 </body>
 </html>
