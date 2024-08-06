@@ -15,11 +15,12 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path, include
+from django_distill import distill_path
+from django.urls import include
 from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', include('pdf_extractor.urls')),
+    distill_path('admin/', admin.site.urls),
+    distill_path('', include('pdf_extractor.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
